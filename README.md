@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waynebar69
 - 👀 I’m interested in ... Learning to code to manage my monthly business metrics and use the data to increase profitibility and efficiency.
 - 🌱 I’m currently learning ... Python programming.
-- 💞️ I’m looking to collaborate on ... any entry level projects that can assit me master Python and its uses.
+- 💞️ I’m looking to collaborate on ... any projects that can assit me master Python and its uses.
 - 📫 How to reach me ...
 
 <!---
